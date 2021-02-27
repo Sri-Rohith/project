@@ -27,7 +27,7 @@ img:hover{
 a:hover{
   color:gold;
 }
-#url{
+.url{
   padding-left: 20px;
   padding-top: 20px;
 }
