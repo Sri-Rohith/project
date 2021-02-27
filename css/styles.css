@@ -1,0 +1,29 @@
+body{
+  background-color: #a685e2;
+}
+hr{
+  border-color: darkviolet;
+  border-style: none;
+  border-top-style: dashed;
+  border-width: 7px;
+  width: 10%;
+}
+h1{
+  color: #6155a6;
+}
+h3{
+  color: #6155a6;
+}
+.circular{
+  border-radius:50px;
+  height:200px;
+  width: 200px;
+}
+img:hover{
+  border-radius: 75px;
+  height: 300px;
+  width: 300px;
+}
+a:hover{
+  color:gold;
+}
